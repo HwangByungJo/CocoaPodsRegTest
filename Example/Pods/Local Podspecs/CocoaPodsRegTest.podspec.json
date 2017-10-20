@@ -1,0 +1,22 @@
+{
+  "name": "CocoaPodsRegTest",
+  "version": "0.1.0",
+  "summary": "A short description of CocoaPodsRegTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nastillmatic@gmail.com/CocoaPodsRegTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nastillmatic@gmail.com": "pang@bookp.al"
+  },
+  "source": {
+    "git": "https://github.com/nastillmatic@gmail.com/CocoaPodsRegTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CocoaPodsRegTest/Classes/**/*"
+}
