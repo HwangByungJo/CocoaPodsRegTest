@@ -22,7 +22,7 @@ pod 'CocoaPodsRegTest'
 
 ## Author
 
-nastillmatic@gmail.com
+iDeveloper.kr@gmail.com
 
 ## License
 
